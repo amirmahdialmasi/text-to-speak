@@ -1,0 +1,5 @@
+
+customtkinter
+edge-tts
+pygame-ce
+mutagen
